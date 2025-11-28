@@ -42,6 +42,9 @@ Leveraging **Graph Coloring** principles, this tool simulates a university envir
 Visualize the difference between heuristic speed and meta-heuristic optimization:
 * **Greedy Welsh–Powell:** A fast, sequential graph coloring method. It guarantees a valid schedule but often results in a longer exam period (more time slots).
 * **Tabu Search Optimization:** A local search meta-heuristic that takes the Greedy output and "compacts" it. It aggressively reduces the number of time slots required while maintaining zero conflicts.
+<img width="624" height="369" alt="image" src="https://github.com/user-attachments/assets/d51a80b8-f590-4120-bd44-9bb1c9cedfb9" />
+<img width="624" height="367" alt="image" src="https://github.com/user-attachments/assets/e1b9a68f-0528-4261-8b0a-cd01d56b4a6b" />
+<img width="623" height="371" alt="image" src="https://github.com/user-attachments/assets/cbb7b3fc-9db0-4581-9dbc-51dfdfcdfc6b" />
 
 ### 2. Interactive Visualization 📊
 * **Dynamic Grid:** A responsive timetable view where exams are grouped by time slots.
